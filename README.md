@@ -34,3 +34,25 @@ Generate a random opponent team
 Basic turn setup with HP bars and fainting/swapping logic
 
 AI opponent selects a random available Pokémon
+
+🛠️ Tech Stack
+
+Backend
+
+FastAPI
+
+SQLAlchemy ORM + SQLite
+
+Pydantic models
+
+Optional OpenAI API integration
+
+PokeAPI requests
+
+Frontend
+
+Streamlit UI
+
+Backend communication using REST API calls
+
+
